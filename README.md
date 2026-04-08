@@ -57,22 +57,18 @@ Open the notebook in Jupyter or Google Colab and execute all cells.
 
 ### 🔹 Dataset Overview
 <img width="1318" height="715" alt="data_preview png" src="https://github.com/user-attachments/assets/a80a7f3f-c376-48ed-9e9c-bf880a776363" />
-
-
 The dataset was explored to understand structure, feature types, and distributions.
 
 ---
 
 ### 🔹 Feature Distribution by Creditworthiness
-![Distribution](images/Feature Distribution by Creditworthiness.png.png)
-
+<img width="1732" height="684" alt="Feature Distributions by Creditworthiness png" src="https://github.com/user-attachments/assets/30a627c0-dd8a-45ed-be32-8ee825b729ad" />
 Key features show noticeable variation between good and bad credit classes.
 
 ---
 
 ### 🔹 Correlation Heatmap
-![Heatmap](images/heatmap.png)
-
+<img width="1096" height="790" alt="heatmap png" src="https://github.com/user-attachments/assets/fb75203c-ce00-4f87-934a-78391fa64a12" />
 The heatmap highlights relationships between features, helping in feature selection.
 
 ---
@@ -80,8 +76,7 @@ The heatmap highlights relationships between features, helping in feature select
 ## 🤖 Model Building & Comparison
 
 ### 🔹 Model Comparison
-![Comparison](images/model_comparison.png)
-
+<img width="1489" height="593" alt="model comparison png" src="https://github.com/user-attachments/assets/37c54667-cfff-41d7-b0aa-880ee8c289fe" />
 Multiple models were tested, and performance was compared using accuracy and evaluation metrics.
 
 ---
@@ -89,16 +84,16 @@ Multiple models were tested, and performance was compared using accuracy and eva
 ## 🌲 Random Forest Model Insights
 
 ### 🔹 Feature Importance
-![Feature Importance](images/feature_importance.png)
-
+<img width="990" height="590" alt="random forest - feature importance png" src="https://github.com/user-attachments/assets/c003fc5d-656b-4051-bd25-ba02557bdbfa" />
 Random Forest identifies the most influential features affecting credit decisions.
 
 ---
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
-
+<img width="990" height="590" alt="random forest - feature importance png" src="https://github.com/user-attachments/assets/85a89f15-e220-4db7-ba2c-c87c7fb2cbf3" />
 The confusion matrix shows the model's classification performance and error distribution.
+
+---
 
 ## 📈 Results
 - Random Forest achieved the best performance among all models  
