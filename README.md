@@ -38,6 +38,7 @@ Predict an individual's creditworthiness using past financial data.
 │   └── random forest- confusion_matrix.png.png
 ├── requirements.txt
 └── README.md
+```
 
 ## 🚀 How to Run
 ### 1️⃣ Clone Repository
@@ -55,7 +56,8 @@ Open the notebook in Jupyter or Google Colab and execute all cells.
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 🔹 Dataset Overview
-![Dataset](images/dataset_review.png.png)
+<img width="1318" height="715" alt="data_preview png" src="https://github.com/user-attachments/assets/a80a7f3f-c376-48ed-9e9c-bf880a776363" />
+
 
 The dataset was explored to understand structure, feature types, and distributions.
 
