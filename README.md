@@ -27,15 +27,15 @@ Predict an individual's creditworthiness using past financial data.
 - ⭐ Feature Importance Analysis
 
 ## 📁 Project Structure
-├── notebooks/
-│   └── credit_scoring_model.ipynb
+``` bash
+├── credit_scoring_model.ipynb
 ├── images/
-│   ├── dataset_review.png
-│   ├── feature_distribution.png
-│   ├── heatmap.png
-│   ├── model_comparison.png
-│   ├── feature_importance.png
-│   └── confusion_matrix.png
+│   ├── dataset_review.png.png
+│   ├── Feature Distribution by Creditworthiness.png.png
+│   ├── heatmap.png.png
+│   ├── model comparison.png.png
+│   ├── random forest - feature_importance.png.png
+│   └── random forest- confusion_matrix.png.png
 ├── requirements.txt
 └── README.md
 
@@ -55,14 +55,14 @@ Open the notebook in Jupyter or Google Colab and execute all cells.
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 🔹 Dataset Overview
-![Dataset](images/dataset_review.png)
+![Dataset](images/dataset_review.png.png)
 
 The dataset was explored to understand structure, feature types, and distributions.
 
 ---
 
 ### 🔹 Feature Distribution by Creditworthiness
-![Distribution](images/feature_distribution.png)
+![Distribution](images/Feature Distribution by Creditworthiness.png.png)
 
 Key features show noticeable variation between good and bad credit classes.
 
